@@ -1,7 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
+int x[1000];
 
 int main(){
-    cout << sizeof(long long);
+    cout << x[1];
     return 0;
 }
